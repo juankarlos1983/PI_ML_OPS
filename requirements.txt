@@ -1,0 +1,4 @@
+pandas
+FastAPI
+operator
+random
